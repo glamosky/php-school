@@ -1,0 +1,12 @@
+   # Laragon specific
+   *.log
+   temp/
+   cache/
+
+   # PHP
+   *.php~
+   *.php.bak
+
+   # OS generated files
+   .DS_Store
+   Thumbs.db
